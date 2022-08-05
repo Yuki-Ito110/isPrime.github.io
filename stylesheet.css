@@ -30,6 +30,11 @@
    font-weight: bold;
    font-family: 'Courier New', Courier, monospace;
   }
+  p#alartmsg {
+   font-size: 18px;
+   color: red;
+   margin-top: 0;
+  }
 
  .container2 {
     position: relative;
