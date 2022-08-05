@@ -38,13 +38,13 @@
 
  .container2 {
     position: relative;
-    margin-left: 15%;
+    margin-left: 3%;
     /* top:85px; */
   }
 
  #codepen {
     position: relative;
-    width: 80%;
+    width: 98%;
     margin-right: auto;
     margin-left: auto;
  }
